@@ -27,6 +27,7 @@ The default grunt task will watch and compile all files in the sass directory. I
 ###Using Sass
 - [Install Sass](http://sass-lang.com/install)
 - Navigate to the /css directory and run: `sass --watch app.sass:app.css`
+
 ###Using Grunt
 - [Install node](https://nodejs.org/download/)
 - [Install Grunt](http://gruntjs.com/getting-started)
